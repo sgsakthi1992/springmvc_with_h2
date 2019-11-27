@@ -8,7 +8,7 @@
 <body>
 
   <a href="getUsers">Users List</a>
-  <a href="bye">Say BYE</a>
+  <a href="uploadFile">Upload Users List</a>
 
 </body>
 </html>
