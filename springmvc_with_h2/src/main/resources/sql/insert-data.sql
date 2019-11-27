@@ -1,0 +1,1 @@
+INSERT INTO USERS VALUES(1, 'Gokula', 'Sakthi', '9095005343', 'Airtel');
