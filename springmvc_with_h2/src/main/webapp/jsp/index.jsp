@@ -9,6 +9,7 @@
 
   <a href="getUsers">Users List</a>
   <a href="uploadFile">Upload Users List</a>
+  <a href="downloadPdf">Download PDF</a>
 
 </body>
 </html>
